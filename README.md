@@ -6,7 +6,7 @@
 
 ### 🏛️ Digital Architects for Indian Enterprises
 
-[![Website](https://img.shields.io/badge/🌐_Website-codeveer.com-004370?style=for-the-badge)](https://codeveer.com)
+[![Website](https://img.shields.io/badge/🌐_Website-codeveer.in-004370?style=for-the-badge)](https://codeveer.in)
 [![Instagram](https://img.shields.io/badge/Instagram-@code.veer-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/code.veer/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Codeveer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codeveer)
 [![Twitter](https://img.shields.io/badge/Twitter-@Code__Veer-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Code_Veer)
@@ -115,7 +115,7 @@ We're building the **next generation of AI tools** to supercharge brand digital 
 
 We have delivered winning digital experiences for clients across India. From fintech and hospitality to SaaS and e-commerce — our portfolio speaks volumes.
 
-▶ **[View Our Work →](https://codeveer.com/portfolio)**
+▶ **[View Our Work →](https://codeveer.in/portfolio)**
 
 ---
 
@@ -137,7 +137,7 @@ Ready to see your digital future?
 
 | Channel | Link |
 |---|---|
-| 🌐 Website | [codeveer.com](https://codeveer.com) |
+| 🌐 Website | [codeveer.in](https://codeveer.in) |
 | 📧 Email | [hello.codeveer@gmail.com](mailto:hello.codeveer@gmail.com) |
 | 💬 WhatsApp | [+91 8595594097](https://wa.me/918595594097) |
 | 📞 Call | [+91 8595594097](tel:8595594097) |
@@ -146,7 +146,7 @@ Ready to see your digital future?
 
 <div align="center">
 
-**[🚀 Get Your Free 24-Hour Preview →](https://codeveer.com/free-preview)**
+**[🚀 Get Your Free 24-Hour Preview →](https://codeveer.in/free-preview)**
 
 <br/>
 
