@@ -24,7 +24,7 @@
 
 **Codeveer Digital Solutions** is an Indian digital agency on a mission to architect the digital future of Indian businesses. We are a team of **5+ passionate builders** — designers, developers, and strategists — united by a single goal: helping businesses own the digital landscape.
 
-Founded and led by **Somveer Kumar** (Founder) and **Arun Kumar** (Co-Founder), each with 5+ years of hands-on experience, Codeveer bridges the gap between traditional business excellence and modern digital innovation.
+Founded and led by **Somveer Kumar** (Founder) and **Pratik Patil** (Co-Founder), each with 5+ years of hands-on experience, Codeveer bridges the gap between traditional business excellence and modern digital innovation.
 
 We serve **150+ Indian businesses** across industries — from local startups to pan-India enterprises — delivering solutions that resonate with diverse audiences while maintaining global standards.
 
