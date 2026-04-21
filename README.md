@@ -138,7 +138,7 @@ Ready to see your digital future?
 | Channel | Link |
 |---|---|
 | 🌐 Website | [codeveer.in](https://codeveer.in) |
-| 📧 Email | [hello.codeveer@gmail.com](mailto:hello.codeveer@gmail.com) |
+| 📧 Email | [hello@codeveer.in](mailto:hello@codeveer.in) |
 | 💬 WhatsApp | [+91 8595594097](https://wa.me/918595594097) |
 | 📞 Call | [+91 8595594097](tel:8595594097) |
 
@@ -150,6 +150,6 @@ Ready to see your digital future?
 
 <br/>
 
-*© 2025 Codeveer Digital Solutions. Architecting India's Digital Future.*
+*© 2026 Codeveer Digital Solutions. Architecting India's Digital Future.*
 
 </div>
